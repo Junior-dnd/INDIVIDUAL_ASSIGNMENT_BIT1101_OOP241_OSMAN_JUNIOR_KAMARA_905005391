@@ -1,0 +1,2 @@
+# INDIVIDUAL_ASSIGNMENT_BIT1101_OOP241_OSMAN_JUNIOR_KAMARA_905005391
+The Digital Permit &amp; License Management System is a simple Python program that allows a district office to receive permit applications, review and approve them, issue license numbers, and identify licenses that are about to expire. Anyone can verify a license using its license number. The system is developed using Object-Oriented Programming (OOP).
